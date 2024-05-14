@@ -5,6 +5,7 @@ const img = $('img');
 
 
 window.onload = () => {
+  // document.body.style.overflow = 'auto';
 
   const lenis = new Lenis({
     wheelMultiplier: 0.6,
